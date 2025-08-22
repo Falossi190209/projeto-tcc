@@ -1,4 +1,3 @@
-# Projeto SENAI
+# Cibo Cheap
 
-Projeto criado para fins de aprendizado em desenvolvimento de software!
-Uma nova inovação para a sociedade!!
+Novo projeto!
