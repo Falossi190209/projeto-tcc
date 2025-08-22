@@ -1,6 +1,6 @@
 # Cibo Cheap
 
-##Introdução
+## Introdução
 
 O desperdício de alimentos é um problema crítico global, com impactos econômicos, sociais e ambientais significativos. No Brasil, mais de 12 milhões de toneladas de alimentos são descartadas anualmente, grande parte ainda própria para consumo.
 Este aplicativo surge como uma solução inovadora e tecnológica, que conecta supermercados, produtores locais e consumidores, criando um ecossistema sustentável que reduz perdas, gera economia e promove o consumo consciente.
